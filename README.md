@@ -9,6 +9,7 @@ La manipulation et le prétraitement de données n’est sans doute pas la parti
 - Identification de problème.
 - Identification d'outliers.
 - Présenter des résultats préliminaires.
+- Initiation au webscrapping.
 
 ---
 
@@ -23,6 +24,14 @@ La manipulation et le prétraitement de données n’est sans doute pas la parti
 ![Graphique 2](https://github.com/FabienHaury/DU-Unit1-Manipulation-et-pretraitement-de-donnees/blob/main/Screenshot/PhD%20probl%C3%A8mes%20date%20soutenance-2.png)
 ![Graphique 3](https://github.com/FabienHaury/DU-Unit1-Manipulation-et-pretraitement-de-donnees/blob/main/Screenshot/PhD%20outliers%20analyse%20outliers-2.png)
 ![Graphique 4](https://github.com/FabienHaury/DU-Unit1-Manipulation-et-pretraitement-de-donnees/blob/main/Screenshot/PhD%20r%C3%A9sulats%20pr%C3%A9liminaires%20exploration-1.png)
+
+---
+
+## Technologies utilisées :
+- **Langage** : R, LaTeX 
+- **Packages** : tidyverse, lubridate, naniar, rvest 
+- **Environnement** : Rstudio, Overleaf (éditeur LaTeX) 
+- **Méthodes** : data wrangling, data visualisation, webscrapping, rédaction de rapport 
 
 ---
 
