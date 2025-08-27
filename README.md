@@ -37,6 +37,6 @@ La manipulation et le prétraitement de données n’est sans doute pas la parti
 
 ## Contact
 
-Projet mené dans le cadre de mon Diplôme Universitaire Data Analyst par Cergy Paris Université (2022). 
+Projet mené dans le cadre de mon Diplôme Universitaire Data Analyst par Cergy Paris Université (2022).   
 Pour me contacter : 
 - [email](mailto:67912775+FabienHaury@users.noreply.github.com)
