@@ -3,7 +3,7 @@ La manipulation et le prétraitement de données n’est sans doute pas la parti
 
 ---
 
-## Objectif : 
+## Objectifs : 
 - Comprendre et présenter les données.
 - Identification des données manquantes.
 - Identification de problème.
