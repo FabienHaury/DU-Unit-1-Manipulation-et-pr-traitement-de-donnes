@@ -14,7 +14,7 @@ La manipulation et le prétraitement de données n’est sans doute pas la parti
 ---
 
 ## Données :
-- Les données utilisées ont été webscrapper depuis le site [theses.fr](https://theses.fr/?domaine=theses). Depuis, une API a été mise en place pour faciliter la récupération des données à l'adresse suivante [theses.fr API](https://documentation.abes.fr/aidethesesfr/index.html#PrincipeAPI).
+- Les [données](https://github.com/FabienHaury/DU-Unit1-Manipulation-et-pretraitement-de-donnees/blob/main/Jeux%20de%20donn%C3%A9es/PhD_v3_sample.csv) utilisées ont été webscrapper depuis le site [theses.fr](https://theses.fr/?domaine=theses). Depuis, une API a été mise en place pour faciliter la récupération des données à l'adresse suivante [theses.fr API](https://documentation.abes.fr/aidethesesfr/index.html#PrincipeAPI).
 
 ---
 
